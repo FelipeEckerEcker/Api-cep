@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  codigo_ibge: MyString
+  nome: MyString
+  estado: one
+
+two:
+  codigo_ibge: MyString
+  nome: MyString
+  estado: two
